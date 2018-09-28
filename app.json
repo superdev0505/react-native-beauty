@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "beautifulMakeOver",
+    "sdkVersion": "24.0.0",
+    "icon": "./images/appIconWhite.png",
+    "slug": "beautiful",
+    "loading": {
+      "hideExponentText": true,
+      "icon": "./images/loading.png",
+      "backgroundImage": "./images/launchscreenWhite.png"
+    },
+    "privacy": "public",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "packagerOpts": {
+      "assetExts": [
+        "ttf"
+      ]
+    },
+    "ios": {
+      "bundleIdentifier": "io.market.nativebase.geekyants.beautifulmakeover"
+    },
+    "android": {
+      "package": "io.market.nativebase.geekyants.beautifulmakeover"
+    },
+    "androidStatusBarColor": "#7D59C8",
+    "androidStatusBar": {
+      "barStyle": "dark-content",
+      "backgroundColor": "#7D59C8"
+    }
+  }
+}
